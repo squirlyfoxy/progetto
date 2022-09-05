@@ -1,0 +1,6 @@
+C:\Users\l.baldazzi\OneDrive\Ripasso C#\Classi\Eseguibile\obj\Debug\net48\Eseguibile.csproj.AssemblyReference.cache
+C:\Users\l.baldazzi\OneDrive\Ripasso C#\Classi\Eseguibile\obj\Debug\net48\Eseguibile.csproj.SuggestedBindingRedirects.cache
+C:\Users\l.baldazzi\OneDrive\Ripasso C#\Classi\Eseguibile\obj\Debug\net48\Eseguibile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l.baldazzi\OneDrive\Ripasso C#\Classi\Eseguibile\obj\Debug\net48\Eseguibile.AssemblyInfoInputs.cache
+C:\Users\l.baldazzi\OneDrive\Ripasso C#\Classi\Eseguibile\obj\Debug\net48\Eseguibile.AssemblyInfo.cs
+C:\Users\l.baldazzi\OneDrive\Ripasso C#\Classi\Eseguibile\obj\Debug\net48\Eseguibile.csproj.CoreCompileInputs.cache

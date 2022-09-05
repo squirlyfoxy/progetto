@@ -1,0 +1,5 @@
+C:\Users\l.baldazzi\OneDrive\Ripasso C#\Classi\LibreriaClassi\obj\Debug\net4.8\LibreriaClassi.csproj.AssemblyReference.cache
+C:\Users\l.baldazzi\OneDrive\Ripasso C#\Classi\LibreriaClassi\obj\Debug\net4.8\LibreriaClassi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l.baldazzi\OneDrive\Ripasso C#\Classi\LibreriaClassi\obj\Debug\net4.8\LibreriaClassi.AssemblyInfoInputs.cache
+C:\Users\l.baldazzi\OneDrive\Ripasso C#\Classi\LibreriaClassi\obj\Debug\net4.8\LibreriaClassi.AssemblyInfo.cs
+C:\Users\l.baldazzi\OneDrive\Ripasso C#\Classi\LibreriaClassi\obj\Debug\net4.8\LibreriaClassi.csproj.CoreCompileInputs.cache

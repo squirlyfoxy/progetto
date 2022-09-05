@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Eseguibile/1.0.0": {
+        "dependencies": {
+          "LibreriaClassi": "1.0.0"
+        },
+        "runtime": {
+          "Eseguibile.dll": {}
+        }
+      },
+      "LibreriaClassi/1.0.0": {
+        "runtime": {
+          "LibreriaClassi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Eseguibile/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibreriaClassi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
